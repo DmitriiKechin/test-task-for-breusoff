@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-task-for-breusoff/static/css/main.e6c13ad2.css",
+    "main.js": "/test-task-for-breusoff/static/js/main.8d57fe10.js",
+    "static/media/Background.png": "/test-task-for-breusoff/static/media/Background.127001bef61ad87ba438.png",
+    "static/media/han-solo.jpg": "/test-task-for-breusoff/static/media/han-solo.84705bac66e252072c67.jpg",
+    "index.html": "/test-task-for-breusoff/index.html",
+    "main.e6c13ad2.css.map": "/test-task-for-breusoff/static/css/main.e6c13ad2.css.map",
+    "main.8d57fe10.js.map": "/test-task-for-breusoff/static/js/main.8d57fe10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d57fe10.js"
+  ]
+}
