@@ -2,11 +2,14 @@
     "name": "technical_task",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://DmitriiKechin.gihub.io/test-task-for-breusoff",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "prettier": "prettier --write '*/**/*.{ts,tsx,js,jsx,css,scss,json}'"
+        "prettier": "prettier --write '*/**/*.{ts,tsx,js,jsx,css,scss,json}'",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "dependencies": {
         "@reduxjs/toolkit": "^1.9.6",
